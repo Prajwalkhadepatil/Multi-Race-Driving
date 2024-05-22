@@ -5,18 +5,7 @@
   </a>
 </p>
 
-![State](https://img.shields.io/badge/Context-Up%20to%20date-%20%2329f305)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
-[![windows](https://img.shields.io/badge/Windows%20-compatible-f305b2.svg)](https://www.microsoft.com/es-es/windows) 
-[![Version](https://img.shields.io/badge/Version%20-1.0-0fd5f9.svg)](https://github.com/ZgzInfinity/Multi-Race-Driving/releases)
-![made-with-C++](https://img.shields.io/badge/Made%20with-C++-600ff9.svg)
-[![SFML](https://img.shields.io/badge/Requeriment%20-SFML-f9720f.svg)](https://www.sfml-dev.org/)
 
-![GitHub All Releases](https://img.shields.io/github/downloads/ZgzInfinity/Multi-Race-Driving/total?color=%20%23f34605&label=Release%20downloads&logoColor=%20)
-[![Github Stars](https://img.shields.io/github/stars/ZgzInfinity/Multi-Race-Driving?logo=github)](https://github.com/ZgzInfinity/Multi-Race-Driving/stargazers)
-[![Github forks](https://img.shields.io/github/forks/ZgzInfinity/Multi-Race-Driving?logo=github)](https://github.com/ZgzInfinity/Multi-Race-Driving/network/members)
-
-&nbsp;
 
 # General description
 
@@ -113,7 +102,7 @@ These are the default controllers of the simulator, but you can change them when
 
 ## 4. Author
 
-* [ZgzInfinity](https://github.com/ZgzInfinity)
+* [Prajwal Khadepatil](https://github.com/Prajwalkhadepatil)
 
 &nbsp;
 
@@ -132,6 +121,4 @@ problems together, feel free to open an issue or do a pull request. See the open
 &nbsp;
 
 
-## 7. Documentation
 
-Please, go to the [Wiki](https://github.com/ZgzInfinity/Multi-Race-Driving/wiki/World-Tour) in order to be able to see the more details about what _**Multi Race Driving**_ can offer to you.
